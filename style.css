@@ -21,6 +21,7 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
+  
 }
 
 .page-header .container,
@@ -31,7 +32,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #0174DF;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -40,6 +41,7 @@ body {
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
+  
 }
 
 .header-phone {
@@ -54,6 +56,7 @@ body {
 .hero-image .container {
   max-width: 1408px;
   text-align: center;
+
 }
 
 .heading {
