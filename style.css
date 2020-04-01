@@ -8,6 +8,7 @@ body {
   ;
   background-color: #6395BC;
   background-image: url("img/ever2.jpeg");
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -115,11 +116,17 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("img/html.svg");
+
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("img/css.svg")
+
+}
+ 
+.skill-grange  {
+   background-image: url("img/grange.svg");
 }
 
 .level {
@@ -196,3 +203,6 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+
+ 
